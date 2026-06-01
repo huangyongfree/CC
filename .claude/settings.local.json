@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git *)",
+      "Bash(mkdir -p ~/.ssh)",
+      "Bash(ssh-keygen -t ed25519 -C \"1098739406@qq.com\" -f ~/.ssh/id_ed25519_github -N \"\")",
+      "Bash(ssh *)"
+    ]
+  }
+}
