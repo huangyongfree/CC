@@ -1,0 +1,12 @@
+{
+  "lastUpdated": "2026-06-02T16:12:01.476Z",
+  "records": [
+    {
+      "date": "2026-06-03",
+      "source": "ios_shortcut",
+      "restingHeartRate": 60,
+      "heartRateVariability": 45,
+      "sleepDurationHours": 7.5
+    }
+  ]
+}

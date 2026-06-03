@@ -1,0 +1,27 @@
+{
+  "lastUpdated": "2026-06-03T05:05:14.038Z",
+  "records": [
+    {
+      "date": "2026-05-25",
+      "weightKg": 76.2,
+      "waistCm": 79,
+      "notes": "初始测量"
+    },
+    {
+      "date": "2026-05-28",
+      "weightKg": 75.8,
+      "waistCm": 78,
+      "notes": "晨起空腹"
+    },
+    {
+      "date": "2026-06-02",
+      "weightKg": 75.5,
+      "waistCm": 77
+    },
+    {
+      "date": "2026-06-03",
+      "weightKg": 75.3,
+      "source": "wechat"
+    }
+  ]
+}

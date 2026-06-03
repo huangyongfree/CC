@@ -1,0 +1,552 @@
+{
+  "lastUpdated": "2026-06-03T22:08:43.088735",
+  "analyses": [
+    {
+      "date": "2026-06-01",
+      "dayOfCycle": "推日",
+      "trainingScore": {
+        "total": 85,
+        "breakdown": {
+          "volume": 20,
+          "intensity": 22,
+          "consistency": 18,
+          "progression": 14,
+          "recovery": 11
+        },
+        "comment": "杠铃卧推70kg突破刷新PR！推日强度拉满，8组卧推梯度清晰（热身→冲击→容量）。整体容量7235kg、85分钟持续输出，胸肌刺激充分。注意单侧动作容量偏低，可适当增加臂屈伸重量。"
+      },
+      "summary": "今日推日训练表现优秀！杠铃卧推最高70kg做组，整体容量约7235kg。Apple Watch记录消耗481kcal，训练时长85分钟，平均心率110BPM。胸部刺激充分（卧推+上斜+飞鸟），三头和三角肌中束也有针对性训练。杠铃卧推刷新重量PR（70kg×1）。",
+      "detailedBreakdown": [
+        {
+          "name": "杠铃卧推",
+          "performance": "热身30→40→50kg，冲击70kg×1，容量组50kg×8/8/7/6",
+          "commentary": "热身梯度非常合理，从30kg逐步激活到50kg。70kg极限冲击成功！从50kg的做组数据来看，8/8/7/6次的衰减曲线说明力竭控制得很好。70kg的突破为你打开了新的重量窗口，下次可以尝试用55kg做组。",
+          "highlight": "🔥"
+        },
+        {
+          "name": "上斜哑铃卧推",
+          "performance": "22.5kg×7 → 20kg×8/7",
+          "commentary": "上斜哑铃卧推对上胸的刺激是杠铃无法替代的。22.5kg开局够猛，降到20kg后稳定完成。注意双侧哑铃下落幅度要一致，避免锁骨受力不均。",
+          "highlight": null
+        },
+        {
+          "name": "把手式蝴蝶机飞鸟",
+          "performance": "50kg × 10/10/9 次",
+          "commentary": "蝴蝶机飞鸟作为胸部收尾动作，50kg的重量在推完之后还能做10次，胸大肌的耐力储备非常充足。第3组9次的衰减也在正常范围内。",
+          "highlight": "💪"
+        },
+        {
+          "name": "单手绳索臂屈伸",
+          "performance": "10kg × 10/9/8 次",
+          "commentary": "单侧10kg的三头孤立训练偏保守。考虑到你卧推70kg的实力，三头力量远超这个水平。下次可以尝试12-15kg，或者改用双头绳索下压来增加负荷。",
+          "highlight": null
+        },
+        {
+          "name": "绳索侧平举（单边）",
+          "performance": "15kg × 12/12/10（递组）",
+          "commentary": "侧平举是中束的王牌动作。15kg连续两组12次非常亮眼，第3组加入递减组技术更是把中束彻底榨干。三角肌中束是肩宽的钥匙，继续保持这个强度。",
+          "highlight": "⭐"
+        }
+      ],
+      "volume": {
+        "totalKg": 7235,
+        "totalSets": 20,
+        "totalReps": 142,
+        "breakdown": [
+          {
+            "movement": "杠铃卧推",
+            "volumeKg": 3160,
+            "sets": 8
+          },
+          {
+            "movement": "上斜哑铃卧推",
+            "volumeKg": 1050,
+            "sets": 3
+          },
+          {
+            "movement": "把手式蝴蝶机飞鸟",
+            "volumeKg": 1500,
+            "sets": 3
+          },
+          {
+            "movement": "单手绳索臂屈伸",
+            "volumeKg": 270,
+            "sets": 3
+          },
+          {
+            "movement": "绳索侧平举（单边）",
+            "volumeKg": 510,
+            "sets": 3
+          }
+        ]
+      },
+      "intensity": {
+        "score": 0.78,
+        "label": "高强度",
+        "avgRpe": 8,
+        "heavySets": 8
+      },
+      "muscleCoverage": {
+        "胸大肌": {
+          "movements": 3,
+          "sets": 14
+        },
+        "三角肌前束": {
+          "movements": 2,
+          "sets": 11
+        },
+        "三角肌中束": {
+          "movements": 1,
+          "sets": 3
+        },
+        "肱三头肌": {
+          "movements": 1,
+          "sets": 3
+        }
+      },
+      "comparison": {
+        "previousDate": "2026-05-29",
+        "trend": "上升",
+        "volume": {
+          "current": 7235,
+          "previous": 6693,
+          "change": 542,
+          "changePct": "+8.1%"
+        },
+        "sets": {
+          "current": 20,
+          "previous": 18,
+          "change": 2
+        },
+        "reps": {
+          "current": 142,
+          "previous": 130,
+          "change": 12
+        },
+        "movements": {
+          "current": 5,
+          "previous": 5,
+          "change": 0
+        },
+        "intensity": {
+          "current": 78,
+          "previous": 73,
+          "change": 5,
+          "changePct": "+6.8%"
+        },
+        "avgRpe": {
+          "current": 8,
+          "previous": 7.8,
+          "change": 0.2,
+          "changePct": "+2.6%"
+        },
+        "heavySets": {
+          "current": 8,
+          "previous": 6,
+          "change": 2
+        },
+        "calories": {
+          "current": 481,
+          "previous": 420,
+          "change": 61
+        },
+        "durationMinutes": {
+          "current": 85,
+          "previous": 75,
+          "change": 10
+        }
+      },
+      "prs": [
+        {
+          "movement": "杠铃卧推",
+          "type": "重量PR",
+          "previous": {
+            "weight": 65,
+            "unit": "kg",
+            "reps": 8,
+            "date": "2026-05-25"
+          },
+          "current": {
+            "weight": 70,
+            "unit": "kg",
+            "reps": 1,
+            "date": "2026-06-01"
+          }
+        }
+      ],
+      "recovery": {
+        "score": 0.62,
+        "suggestion": "推日强度高，胸肌和三头肌有明显疲劳。今晚建议2200卡充能餐，碳水优先。明天拉日训练时硬拉和杠铃划船重量可适当保守，优先保证动作质量。",
+        "fatigueIndicator": "胸肌和肱三头肌有明显疲劳，需48h充分恢复"
+      },
+      "nutrition": {
+        "scenario": "方案 A 充能饭",
+        "calories": 2200,
+        "description": "大米饭 + 鸡胸肉/鱼肉 + 西兰花",
+        "reason": "推日冲击70kg卧推极限后，胸大肌和三头肌微撕裂需要大量蛋白质修复。配合足量碳水可提升胰岛素水平，促进氨基酸向肌肉细胞转运。"
+      },
+      "nextPlanPreview": {
+        "date": "2026-06-02",
+        "dayOfCycle": "拉日",
+        "focusMuscles": [
+          "背阔肌",
+          "上背",
+          "肱二头肌",
+          "三角肌后束"
+        ],
+        "suggestedMovements": [
+          "T杆划船",
+          "竖直坐姿绳索划船",
+          "宽握反手下拉",
+          "直杆绳索弯举"
+        ]
+      },
+      "appleHealth": {
+        "type": "TraditionalStrengthTraining",
+        "calories": 481,
+        "durationSeconds": 5123,
+        "durationMinutes": 85,
+        "avgHeartRate": 110
+      }
+    },
+    {
+      "date": "2026-06-02",
+      "dayOfCycle": "拉日",
+      "trainingScore": {
+        "total": 85,
+        "breakdown": {
+          "volume": 23,
+          "intensity": 17,
+          "consistency": 17,
+          "progression": 14,
+          "recovery": 14
+        },
+        "comment": "容量表现亮眼，持续超负荷刺激"
+      },
+      "summary": "今日拉日训练5个动作18组完成，总容量8,917.5kg。 强度中高强度（RPE 7），5组大重量。 🍎 Apple Health：静息心率60bpm、HRV 45ms、睡眠7.5h。 对比上次(06-01)：容量+23.3%。",
+      "detailedBreakdown": [
+        {
+          "name": "T杆划船（窄）",
+          "performance": "37.5kg × 4组，12/12/12... 次",
+          "commentary": "基础动作执行到位，37.5kg的重量控制稳定。注意离心阶段放慢到2-3秒，肌肉刺激会更充分。 组间耐力出色，次数几乎没有衰减，体能储备充足。",
+          "highlight": "💪"
+        },
+        {
+          "name": "竖直坐姿绳索划船",
+          "performance": "55kg × 4组，10/10/10... 次",
+          "commentary": "复合动作4组全部吃满肌肥大区间，动作质量扎实。继续用这个重量磨3-4周，神经适应后会迎来新一波力量增长。 组间耐力出色，次数几乎没有衰减，体能储备充足。",
+          "highlight": "🔥"
+        },
+        {
+          "name": "宽握反手下拉",
+          "performance": "46.3kg × 4组，12/12/11... 次",
+          "commentary": "复合动作4组全部吃满肌肥大区间，动作质量扎实。继续用这个重量磨3-4周，神经适应后会迎来新一波力量增长。 组间耐力出色，次数几乎没有衰减，体能储备充足。",
+          "highlight": "🔥"
+        },
+        {
+          "name": "单手下拉",
+          "performance": "46.7kg × 3组，8/7/8 次",
+          "commentary": "基础动作执行到位，46.7kg的重量控制稳定。注意离心阶段放慢到2-3秒，肌肉刺激会更充分。 组间耐力出色，次数几乎没有衰减，体能储备充足。",
+          "highlight": "💪"
+        },
+        {
+          "name": "直杆绳索弯举",
+          "performance": "50kg × 3组，12/12/11 次",
+          "commentary": "3组高次数轰炸，代谢压力累积充分。下次可以尝试加2.5kg，把次数控制在8-10区间。 组间耐力出色，次数几乎没有衰减，体能储备充足。",
+          "highlight": "⭐"
+        }
+      ],
+      "volume": {
+        "totalKg": 8917.5,
+        "totalSets": 18,
+        "totalReps": 196,
+        "breakdown": [
+          {
+            "movement": "T杆划船（窄）",
+            "volumeKg": 1762.5,
+            "sets": 4
+          },
+          {
+            "movement": "竖直坐姿绳索划船",
+            "volumeKg": 2200,
+            "sets": 4
+          },
+          {
+            "movement": "宽握反手下拉",
+            "volumeKg": 2130,
+            "sets": 4
+          },
+          {
+            "movement": "单手下拉",
+            "volumeKg": 1075,
+            "sets": 3
+          },
+          {
+            "movement": "直杆绳索弯举",
+            "volumeKg": 1750,
+            "sets": 3
+          }
+        ]
+      },
+      "intensity": {
+        "score": 0.73,
+        "label": "中高强度",
+        "avgRpe": 7,
+        "heavySets": 5
+      },
+      "muscleCoverage": {
+        "背阔肌": {
+          "movements": 4,
+          "sets": 15
+        },
+        "上背": {
+          "movements": 2,
+          "sets": 8
+        },
+        "肱二头肌": {
+          "movements": 1,
+          "sets": 3
+        }
+      },
+      "comparison": {
+        "previousDate": "2026-06-01",
+        "trend": "上升",
+        "volume": {
+          "current": 8917.5,
+          "previous": 7235,
+          "change": 1682.5,
+          "changePct": "+23.3%"
+        },
+        "sets": {
+          "current": 18,
+          "previous": 20,
+          "change": -2
+        },
+        "reps": {
+          "current": 196,
+          "previous": 142,
+          "change": 54
+        },
+        "movements": {
+          "current": 5,
+          "previous": 5,
+          "change": 0
+        },
+        "intensity": {
+          "current": 73,
+          "previous": 78,
+          "change": -5,
+          "changePct": "-6.4%"
+        },
+        "avgRpe": {
+          "current": 7,
+          "previous": 8,
+          "change": -1,
+          "changePct": "—"
+        },
+        "heavySets": {
+          "current": 5,
+          "previous": 8,
+          "change": -3
+        }
+      },
+      "prs": [],
+      "recovery": {
+        "score": 0.65,
+        "suggestion": "HRV处于正常区间，恢复进度良好。睡眠时长尚可，建议争取7h以上。",
+        "fatigueIndicator": ""
+      },
+      "nutrition": {
+        "scenario": "方案 A 充能饭",
+        "calories": 2200,
+        "description": "大碗白米饭 + 足量瘦牛肉/鸡胸肉 + 蔬菜",
+        "reason": "大容量训练后肌糖原耗尽，高碳水促进胰岛素分泌加速蛋白质合成。"
+      },
+      "nextPlanPreview": {
+        "date": "2026-06-03",
+        "dayOfCycle": "腹+骑行",
+        "focusMuscles": [
+          "腹直肌",
+          "腹斜肌",
+          "核心稳定性",
+          "心肺耐力"
+        ],
+        "suggestedMovements": [
+          "悬垂举腿",
+          "绳索卷腹",
+          "平板支撑",
+          "户外骑行"
+        ]
+      }
+    },
+    {
+      "date": "2026-06-03",
+      "dayOfCycle": "腹+骑行",
+      "trainingScore": {
+        "total": 78,
+        "breakdown": {
+          "volume": 20,
+          "intensity": 18,
+          "consistency": 15,
+          "progression": 12,
+          "recovery": 13
+        },
+        "comment": "腹日训练扎实，绳索卷腹70kg重量很足，侧平举渐进降重组做得不错。平板支撑收尾保证核心耐力。下次可以尝试增加反向山羊挺身的负重。"
+      },
+      "summary": "今日腹+骑行日，训练部分共12组腹肌和肩部训练，总容量3990kg。骑行17.66km消耗400kcal，63分钟有氧表现扎实。核心动作绳索跪姿卷腹70kg重量稳定。腹肌训练质量扎实，整体强度中等，恢复压力可控。明天为休息日。",
+      "detailedBreakdown": [
+        {
+          "name": "绳索跪姿卷腹",
+          "performance": "70kg × 3组，15/15/15 次",
+          "commentary": "今天腹肌训练的王牌动作。70kg绳索卷腹3组15次全部吃满，腹直肌刺激相当到位。绳索的角度让力线更贴近腹肌收缩方向，比器械卷腹更难控制。这个重量做满15次说明核心力量很扎实。",
+          "highlight": "⭐"
+        },
+        {
+          "name": "绳索侧平举（单边）",
+          "performance": "20kg/15kg/15kg × 3组，6/12/10 次",
+          "commentary": "肩部辅助训练的经典动作。第一组20kg尝试有点重只完成6次，但立即调整到15kg继续高质量完成12和10次——这种灵活调整很聪明。单边做可以更好地感受中束发力，避免借力。",
+          "highlight": ""
+        },
+        {
+          "name": "反向山羊挺身",
+          "performance": "10kg × 3组，13/13/13 次",
+          "commentary": "下背+臀部的经典补强动作。10kg三组13次全部稳定完成，节奏控制得好。这个动作对你深蹲和硬拉的躯干刚性帮助很大。下次可以试试加到15kg。",
+          "highlight": ""
+        },
+        {
+          "name": "平板支撑",
+          "performance": "自重 × 3组",
+          "commentary": "核心耐力的基础训练。放在腹日收尾做核心稳定性的强化很不错。平板支撑的价值在于维持腹横肌的激活而非追求时长，质量胜过数量。",
+          "highlight": ""
+        },
+        {
+          "name": "骑行",
+          "performance": "17.66km · 400kcal · 63分钟",
+          "commentary": "63分钟骑行17.66km，平均速度16.8km/h节奏适中。骑行作为腹日的搭配有氧，既不会过度消耗力量训练后的糖原储备，又能提升下肢血液循环帮助恢复。400kcal的热量消耗恰到好处。这个速度和距离说明你的有氧基础不错。",
+          "highlight": "🚴"
+        }
+      ],
+      "volume": {
+        "totalKg": 3990,
+        "totalSets": 12,
+        "totalReps": 90,
+        "breakdown": [
+          {
+            "movement": "绳索跪姿卷腹",
+            "volumeKg": 3150,
+            "sets": 3
+          },
+          {
+            "movement": "绳索侧平举（单边）",
+            "volumeKg": 450,
+            "sets": 3
+          },
+          {
+            "movement": "反向山羊挺身",
+            "volumeKg": 390,
+            "sets": 3
+          },
+          {
+            "movement": "平板支撑",
+            "volumeKg": 0,
+            "sets": 3
+          }
+        ]
+      },
+      "intensity": {
+        "score": 0.72,
+        "label": "中等强度",
+        "avgRpe": 7.0,
+        "heavySets": 1
+      },
+      "muscleCoverage": {
+        "腹肌": {
+          "movements": 2,
+          "sets": 6
+        },
+        "下背/臀部": {
+          "movements": 1,
+          "sets": 3
+        },
+        "肩部": {
+          "movements": 1,
+          "sets": 3
+        }
+      },
+      "comparison": {
+        "previousDate": "2026-06-02",
+        "trend": "首训",
+        "volume": {
+          "current": 3990,
+          "previous": 0,
+          "change": 0,
+          "changePct": "N/A"
+        },
+        "sets": {
+          "current": 12,
+          "previous": 0,
+          "change": 0
+        },
+        "reps": {
+          "current": 90,
+          "previous": 0,
+          "change": 0
+        },
+        "movements": {
+          "current": 4,
+          "previous": 0,
+          "change": 0
+        },
+        "intensity": {
+          "current": 72,
+          "previous": 0,
+          "change": 0,
+          "changePct": "N/A"
+        },
+        "avgRpe": {
+          "current": 7.0,
+          "previous": 0,
+          "change": 0,
+          "changePct": "N/A"
+        },
+        "heavySets": {
+          "current": 1,
+          "previous": 0,
+          "change": 0
+        }
+      },
+      "prs": [],
+      "recovery": {
+        "score": 0.68,
+        "suggestion": "腹日力量+骑行有氧组合完成得漂亮。明天休息日，骑行后的下肢血液循环有助于腹肌恢复。注意补充碳水为后天推日蓄力。",
+        "fatigueIndicator": "中等疲劳（连续训练第3天）"
+      },
+      "nutrition": {
+        "scenario": "方案 B 均衡餐",
+        "calories": 2400,
+        "description": "鸡胸肉200g + 牛肉100g + 糙米饭250g + 西兰花 + 香蕉 + 2个鸡蛋",
+        "reason": "腹日容量中等+63分钟骑行，总消耗约560kcal。碳水适当上提，补充骑行消耗的肌糖原。蛋白质保持高位维持腹部和肩部肌肉修复。"
+      },
+      "nextPlanPreview": {
+        "date": "2026-06-05",
+        "dayOfCycle": "推日",
+        "focusMuscles": [
+          "胸大肌",
+          "三角肌前束",
+          "肱三头肌"
+        ],
+        "suggestedMovements": [
+          "杠铃卧推",
+          "上斜哑铃卧推",
+          "器械飞鸟",
+          "绳索下压",
+          "哑铃侧平举"
+        ]
+      },
+      "appleHealth": {
+        "calories": 400,
+        "durationMinutes": 63
+      }
+    }
+  ]
+}

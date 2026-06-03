@@ -1,0 +1,390 @@
+{
+  "lastUpdated": "2026-06-03T22:13:38.978888",
+  "generatedDate": "2026-06-03T22:13:38.978888",
+  "cycle": [
+    {
+      "dayLabel": "休息",
+      "focus": [
+        "恢复",
+        "拉伸"
+      ],
+      "targetDate": "2026-06-04",
+      "movements": [],
+      "estimatedDuration": 0,
+      "estimatedKcal": 0
+    },
+    {
+      "dayLabel": "推日",
+      "focus": [
+        "胸大肌",
+        "三角肌前束",
+        "肱三头肌"
+      ],
+      "targetDate": "2026-06-05",
+      "movements": [
+        {
+          "name": "杠铃卧推",
+          "warmupSets": 2,
+          "workingSets": 4,
+          "targetReps": "6-8",
+          "targetRpe": "8-9",
+          "suggestedWeight": "65-70kg",
+          "restSeconds": 120,
+          "notes": "推日王牌，渐进超负荷"
+        },
+        {
+          "name": "上斜哑铃卧推",
+          "warmupSets": 1,
+          "workingSets": 3,
+          "targetReps": "8-10",
+          "targetRpe": "8",
+          "suggestedWeight": "22.5-25kg",
+          "restSeconds": 90,
+          "notes": "上胸重点"
+        },
+        {
+          "name": "器械飞鸟",
+          "warmupSets": 0,
+          "workingSets": 3,
+          "targetReps": "12-15",
+          "targetRpe": "7-8",
+          "suggestedWeight": "根据感觉",
+          "restSeconds": 60,
+          "notes": "孤立胸肌收尾"
+        },
+        {
+          "name": "绳索下压",
+          "warmupSets": 0,
+          "workingSets": 3,
+          "targetReps": "12-15",
+          "targetRpe": "7-8",
+          "suggestedWeight": "根据感觉",
+          "restSeconds": 60,
+          "notes": "三头补强"
+        },
+        {
+          "name": "哑铃侧平举",
+          "warmupSets": 1,
+          "workingSets": 3,
+          "targetReps": "12-15",
+          "targetRpe": "7-8",
+          "suggestedWeight": "7.5-10kg",
+          "restSeconds": 60,
+          "notes": "中束加强"
+        }
+      ],
+      "estimatedDuration": 70,
+      "estimatedKcal": 450
+    },
+    {
+      "dayLabel": "拉日",
+      "focus": [
+        "背阔肌",
+        "大圆肌",
+        "肱二头肌",
+        "后束"
+      ],
+      "targetDate": "2026-06-06",
+      "movements": [
+        {
+          "name": "引体向上",
+          "warmupSets": 2,
+          "workingSets": 4,
+          "targetReps": "6-8",
+          "targetRpe": "8-9",
+          "suggestedWeight": "自重",
+          "restSeconds": 120,
+          "notes": "拉日王牌"
+        },
+        {
+          "name": "T杆划船",
+          "warmupSets": 1,
+          "workingSets": 4,
+          "targetReps": "8-10",
+          "targetRpe": "8",
+          "suggestedWeight": "35-40kg",
+          "restSeconds": 90,
+          "notes": "背阔厚度"
+        },
+        {
+          "name": "高位下拉",
+          "warmupSets": 1,
+          "workingSets": 3,
+          "targetReps": "10-12",
+          "targetRpe": "7-8",
+          "suggestedWeight": "根据感觉",
+          "restSeconds": 90,
+          "notes": "背阔宽度"
+        },
+        {
+          "name": "绳索面拉",
+          "warmupSets": 0,
+          "workingSets": 3,
+          "targetReps": "15",
+          "targetRpe": "7",
+          "suggestedWeight": "根据感觉",
+          "restSeconds": 60,
+          "notes": "后束+肩袖"
+        },
+        {
+          "name": "哑铃弯举",
+          "warmupSets": 0,
+          "workingSets": 3,
+          "targetReps": "10-12",
+          "targetRpe": "7-8",
+          "suggestedWeight": "10-12.5kg",
+          "restSeconds": 60,
+          "notes": "二头补强"
+        }
+      ],
+      "estimatedDuration": 70,
+      "estimatedKcal": 420
+    },
+    {
+      "dayLabel": "腹+骑行",
+      "focus": [
+        "腹直肌",
+        "腹斜肌",
+        "下背",
+        "有氧"
+      ],
+      "targetDate": "2026-06-07",
+      "movements": [
+        {
+          "name": "绳索跪姿卷腹",
+          "warmupSets": 1,
+          "workingSets": 3,
+          "targetReps": "15",
+          "targetRpe": "7-8",
+          "suggestedWeight": "65-75kg",
+          "restSeconds": 60,
+          "notes": "腹直肌王牌"
+        },
+        {
+          "name": "反向山羊挺身",
+          "warmupSets": 0,
+          "workingSets": 3,
+          "targetReps": "12-15",
+          "targetRpe": "7",
+          "suggestedWeight": "10-15kg",
+          "restSeconds": 60,
+          "notes": "下背+臀部"
+        },
+        {
+          "name": "平板支撑",
+          "warmupSets": 0,
+          "workingSets": 3,
+          "targetReps": "力竭",
+          "targetRpe": "N/A",
+          "suggestedWeight": "自重",
+          "restSeconds": 45,
+          "notes": "核心耐力"
+        },
+        {
+          "name": "骑行",
+          "warmupSets": 0,
+          "workingSets": 0,
+          "targetReps": "30-45min",
+          "targetRpe": "有氧",
+          "suggestedWeight": "—",
+          "restSeconds": 0,
+          "notes": "户外或动感单车，建议用训记记录"
+        }
+      ],
+      "estimatedDuration": 60,
+      "estimatedKcal": 350
+    },
+    {
+      "dayLabel": "休息",
+      "focus": [
+        "恢复",
+        "拉伸"
+      ],
+      "targetDate": "2026-06-08",
+      "movements": [],
+      "estimatedDuration": 0,
+      "estimatedKcal": 0
+    },
+    {
+      "dayLabel": "推日",
+      "focus": [
+        "胸大肌",
+        "三角肌前束",
+        "肱三头肌"
+      ],
+      "targetDate": "2026-06-09",
+      "movements": [
+        {
+          "name": "杠铃卧推",
+          "warmupSets": 2,
+          "workingSets": 4,
+          "targetReps": "6-8",
+          "targetRpe": "8-9",
+          "suggestedWeight": "65-70kg",
+          "restSeconds": 120,
+          "notes": "推日王牌，渐进超负荷"
+        },
+        {
+          "name": "上斜哑铃卧推",
+          "warmupSets": 1,
+          "workingSets": 3,
+          "targetReps": "8-10",
+          "targetRpe": "8",
+          "suggestedWeight": "22.5-25kg",
+          "restSeconds": 90,
+          "notes": "上胸重点"
+        },
+        {
+          "name": "器械飞鸟",
+          "warmupSets": 0,
+          "workingSets": 3,
+          "targetReps": "12-15",
+          "targetRpe": "7-8",
+          "suggestedWeight": "根据感觉",
+          "restSeconds": 60,
+          "notes": "孤立胸肌收尾"
+        },
+        {
+          "name": "绳索下压",
+          "warmupSets": 0,
+          "workingSets": 3,
+          "targetReps": "12-15",
+          "targetRpe": "7-8",
+          "suggestedWeight": "根据感觉",
+          "restSeconds": 60,
+          "notes": "三头补强"
+        },
+        {
+          "name": "哑铃侧平举",
+          "warmupSets": 1,
+          "workingSets": 3,
+          "targetReps": "12-15",
+          "targetRpe": "7-8",
+          "suggestedWeight": "7.5-10kg",
+          "restSeconds": 60,
+          "notes": "中束加强"
+        }
+      ],
+      "estimatedDuration": 70,
+      "estimatedKcal": 450
+    },
+    {
+      "dayLabel": "拉日",
+      "focus": [
+        "背阔肌",
+        "大圆肌",
+        "肱二头肌",
+        "后束"
+      ],
+      "targetDate": "2026-06-10",
+      "movements": [
+        {
+          "name": "引体向上",
+          "warmupSets": 2,
+          "workingSets": 4,
+          "targetReps": "6-8",
+          "targetRpe": "8-9",
+          "suggestedWeight": "自重",
+          "restSeconds": 120,
+          "notes": "拉日王牌"
+        },
+        {
+          "name": "T杆划船",
+          "warmupSets": 1,
+          "workingSets": 4,
+          "targetReps": "8-10",
+          "targetRpe": "8",
+          "suggestedWeight": "35-40kg",
+          "restSeconds": 90,
+          "notes": "背阔厚度"
+        },
+        {
+          "name": "高位下拉",
+          "warmupSets": 1,
+          "workingSets": 3,
+          "targetReps": "10-12",
+          "targetRpe": "7-8",
+          "suggestedWeight": "根据感觉",
+          "restSeconds": 90,
+          "notes": "背阔宽度"
+        },
+        {
+          "name": "绳索面拉",
+          "warmupSets": 0,
+          "workingSets": 3,
+          "targetReps": "15",
+          "targetRpe": "7",
+          "suggestedWeight": "根据感觉",
+          "restSeconds": 60,
+          "notes": "后束+肩袖"
+        },
+        {
+          "name": "哑铃弯举",
+          "warmupSets": 0,
+          "workingSets": 3,
+          "targetReps": "10-12",
+          "targetRpe": "7-8",
+          "suggestedWeight": "10-12.5kg",
+          "restSeconds": 60,
+          "notes": "二头补强"
+        }
+      ],
+      "estimatedDuration": 70,
+      "estimatedKcal": 420
+    },
+    {
+      "dayLabel": "腹+骑行",
+      "focus": [
+        "腹直肌",
+        "腹斜肌",
+        "下背",
+        "有氧"
+      ],
+      "targetDate": "2026-06-11",
+      "movements": [
+        {
+          "name": "绳索跪姿卷腹",
+          "warmupSets": 1,
+          "workingSets": 3,
+          "targetReps": "15",
+          "targetRpe": "7-8",
+          "suggestedWeight": "65-75kg",
+          "restSeconds": 60,
+          "notes": "腹直肌王牌"
+        },
+        {
+          "name": "反向山羊挺身",
+          "warmupSets": 0,
+          "workingSets": 3,
+          "targetReps": "12-15",
+          "targetRpe": "7",
+          "suggestedWeight": "10-15kg",
+          "restSeconds": 60,
+          "notes": "下背+臀部"
+        },
+        {
+          "name": "平板支撑",
+          "warmupSets": 0,
+          "workingSets": 3,
+          "targetReps": "力竭",
+          "targetRpe": "N/A",
+          "suggestedWeight": "自重",
+          "restSeconds": 45,
+          "notes": "核心耐力"
+        },
+        {
+          "name": "骑行",
+          "warmupSets": 0,
+          "workingSets": 0,
+          "targetReps": "30-45min",
+          "targetRpe": "有氧",
+          "suggestedWeight": "—",
+          "restSeconds": 0,
+          "notes": "户外或动感单车，建议用训记记录"
+        }
+      ],
+      "estimatedDuration": 60,
+      "estimatedKcal": 350
+    }
+  ]
+}

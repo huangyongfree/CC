@@ -1,0 +1,213 @@
+{
+  "lastUpdated": "2026-06-02T16:27:25.055Z",
+  "records": {
+    "杠铃卧推": {
+      "maxWeight": {
+        "weight": 70,
+        "unit": "kg",
+        "reps": 1,
+        "date": "2026-06-01"
+      },
+      "maxVolume": {
+        "weight": 50,
+        "unit": "kg",
+        "reps": 8,
+        "date": "2026-06-01"
+      },
+      "estimated1RM": 72,
+      "history": [
+        {
+          "weight": 60,
+          "reps": 8,
+          "date": "2026-05-18",
+          "estimated1RM": 76
+        },
+        {
+          "weight": 65,
+          "reps": 5,
+          "date": "2026-05-25",
+          "estimated1RM": 76
+        },
+        {
+          "weight": 70,
+          "reps": 1,
+          "date": "2026-06-01",
+          "estimated1RM": 72
+        }
+      ]
+    },
+    "上斜哑铃卧推": {
+      "maxWeight": {
+        "weight": 22.5,
+        "unit": "kg",
+        "reps": 7,
+        "date": "2026-06-01"
+      },
+      "maxVolume": {
+        "weight": 22.5,
+        "unit": "kg",
+        "reps": 7,
+        "date": "2026-06-01"
+      },
+      "estimated1RM": 27,
+      "history": [
+        {
+          "weight": 20,
+          "reps": 8,
+          "date": "2026-05-25",
+          "estimated1RM": 25
+        },
+        {
+          "weight": 22.5,
+          "reps": 7,
+          "date": "2026-06-01",
+          "estimated1RM": 27
+        }
+      ]
+    },
+    "T杆划船（窄）": {
+      "maxWeight": {
+        "weight": 37.5,
+        "unit": "kg",
+        "reps": 12,
+        "date": "2026-06-02"
+      },
+      "maxVolume": {
+        "weight": 37.5,
+        "unit": "kg",
+        "reps": 12,
+        "date": "2026-06-02"
+      },
+      "estimated1RM": 52.5,
+      "history": [
+        {
+          "weight": 35,
+          "reps": 10,
+          "date": "2026-05-28",
+          "estimated1RM": 47
+        },
+        {
+          "weight": 37.5,
+          "reps": 12,
+          "date": "2026-06-02",
+          "estimated1RM": 52.5
+        }
+      ]
+    },
+    "竖直坐姿绳索划船": {
+      "maxWeight": {
+        "weight": 55,
+        "unit": "kg",
+        "reps": 10,
+        "date": "2026-06-02"
+      },
+      "maxVolume": {
+        "weight": 55,
+        "unit": "kg",
+        "reps": 10,
+        "date": "2026-06-02"
+      },
+      "estimated1RM": 73.3,
+      "history": [
+        {
+          "weight": 55,
+          "reps": 10,
+          "date": "2026-06-02",
+          "estimated1RM": 73.3
+        }
+      ]
+    },
+    "把手式蝴蝶机飞鸟": {
+      "maxWeight": {
+        "weight": 50,
+        "unit": "kg",
+        "reps": 10,
+        "date": "2026-06-01"
+      },
+      "maxVolume": {
+        "weight": 50,
+        "unit": "kg",
+        "reps": 10,
+        "date": "2026-06-01"
+      },
+      "estimated1RM": 67,
+      "history": [
+        {
+          "weight": 50,
+          "reps": 10,
+          "date": "2026-06-01",
+          "estimated1RM": 67
+        }
+      ]
+    },
+    "直杆绳索弯举": {
+      "maxWeight": {
+        "weight": 50,
+        "unit": "kg",
+        "reps": 12,
+        "date": "2026-06-02"
+      },
+      "maxVolume": {
+        "weight": 50,
+        "unit": "kg",
+        "reps": 12,
+        "date": "2026-06-02"
+      },
+      "estimated1RM": 70,
+      "history": [
+        {
+          "weight": 50,
+          "reps": 12,
+          "date": "2026-06-02",
+          "estimated1RM": 70
+        }
+      ]
+    },
+    "宽握反手下拉": {
+      "maxWeight": {
+        "weight": 50,
+        "unit": "kg",
+        "reps": 12,
+        "date": "2026-06-02"
+      },
+      "maxVolume": {
+        "weight": 50,
+        "unit": "kg",
+        "reps": 12,
+        "date": "2026-06-02"
+      },
+      "estimated1RM": 70,
+      "history": [
+        {
+          "weight": 50,
+          "reps": 12,
+          "date": "2026-06-02",
+          "estimated1RM": 70
+        }
+      ]
+    },
+    "单手下拉": {
+      "maxWeight": {
+        "weight": 50,
+        "unit": "kg",
+        "reps": 8,
+        "date": "2026-06-02"
+      },
+      "maxVolume": {
+        "weight": 50,
+        "unit": "kg",
+        "reps": 8,
+        "date": "2026-06-02"
+      },
+      "estimated1RM": 63.3,
+      "history": [
+        {
+          "weight": 50,
+          "reps": 8,
+          "date": "2026-06-02",
+          "estimated1RM": 63.3
+        }
+      ]
+    }
+  }
+}
